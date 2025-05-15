@@ -13,7 +13,7 @@ https://docs.google.com/spreadsheets/d/1DbFxyxbfzLJgj56bVHbFC8SqkV-QkrKTa84A1mR7
 
 
 ## 💸 Support This Project
-[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)]([https://www.paypal.com/donate/?hosted_button_id=YOUR_BUTTON_ID](https://www.paypal.com/donate/?business=JQJEUBNUFAT5E&no_recurring=0&item_name=Thank+you+for+your+support%21&currency_code=USD))
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate/?business=JQJEUBNUFAT5E&no_recurring=0&item_name=Thank+you+for+your+support%21&currency_code=USD)
 
-[![Donate with Venmo](https://img.shields.io/badge/Donate-Venmo-45d8ac.svg)]([https://venmo.com/YOUR_USERNAME](https://www.venmo.com/u/Cliff-Flanders))
+[![Donate with Venmo](https://img.shields.io/badge/Donate-Venmo-45d8ac.svg)](https://www.venmo.com/u/Cliff-Flanders)
 
