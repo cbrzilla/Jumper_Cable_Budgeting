@@ -26,6 +26,7 @@ https://docs.google.com/spreadsheets/d/1DbFxyxbfzLJgj56bVHbFC8SqkV-QkrKTa84A1mR7
 In the "Instructions & Setup" worksheet, Fill in the gray boxes
 
 Note you can pick any start date you want; however, it is typical to set this to the same day your primary paycheck typically is paid out.
+
 <img src="./images/Initial%20Setup.gif" width="75%" height="75%"/>
 
 # 2) Debt Setup
