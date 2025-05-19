@@ -70,4 +70,22 @@ For items that you did not spend or use, you can choose to either enter a zero v
 
 <img src="./images/Entering Actuals.gif" width="75%" height="75%"/>
 
+# 7) Entering Items that Only Occur Once Per Year (e.g., Birthdays, Holidays, etc.)
+In the "Budget" worksheet, you can budget for items that occur annually on the same date.  Useful for budgeting birthdays, holidays, tax due dates, etc.
+
+Use the "Due Yearly On" option and enter the due date using the month and day due (ex. 5/10), and the budget worksheets will automatically forecast the budgeted amount in the appropriate pay period each year.
+
+<img src="./images/Holidays & Birthdays.gif" />
+
+# Other Useful Help Topics
+
+# Removing Manual Entries (tan cells)
+In the "Budget" worksheet, whenever an automatic forecasted budget is overwritten with a manual value, it will turn light orange.  This makes it easy to scan for manual or overwritten entries in the forecast.
+
+If you ever need to remove a manual entry and restore it to the automatic budget, you can simply copy a neighboring cell's formulas and drag it over top of the manual entry (you can drag from a neighboring cell on either side or above / below if needed.
+
+<img src="./images/Removing Manual.gif" width="75%" height="75%"/>
+
+
+
 
