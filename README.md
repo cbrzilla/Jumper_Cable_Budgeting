@@ -12,12 +12,15 @@ This tool helps you:
 
 This tool also can analyze your debts and create a plan for you to pay them off faster.  Similar to the "Snowball" method, but instead the APR, Minimum Payment amounts, and Balances are used to sort your debts by the quickest to pay off first.  You can compare different debt payoff plans by comparing the total interest paid over time.
 
-You can copy the worksheets from here: <a href="https://docs.google.com/spreadsheets/d/1DbFxyxbfzLJgj56bVHbFC8SqkV-QkrKTa84A1mR77WI/copy?usp=sharing" target="_blank">Starting Template</a>
+# Sample Budget
+Here is a sample budget to for reference:
 
-Here is a sample budget: <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQF4FVWlT4UNL1J2aL4ZQQGY6oY7M_VhWglMqln4nuIrjiMKwyE23PLI4pj4PMBpCQa3BG-yCDdgNPk/pubhtml" target="_blank">Sample Budget</a>
+https://docs.google.com/spreadsheets/d/e/2PACX-1vQF4FVWlT4UNL1J2aL4ZQQGY6oY7M_VhWglMqln4nuIrjiMKwyE23PLI4pj4PMBpCQa3BG-yCDdgNPk/pubhtml
 
-View Sample 
+# Blank Template:
+This link will allow you to copy the blank template as a starting point, the budget contains the most common budget items for you to use.  Feel free to rename, add, or delete as needed to fit your budget needs.
 
+https://docs.google.com/spreadsheets/d/1DbFxyxbfzLJgj56bVHbFC8SqkV-QkrKTa84A1mR77WI/copy?usp=sharing
 
 ## 💸 Support This Project
 [![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate/?business=JQJEUBNUFAT5E&no_recurring=0&item_name=Thank+you+for+your+support%21&currency_code=USD)
