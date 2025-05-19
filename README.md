@@ -12,9 +12,11 @@ This tool helps you:
 
 This tool also can analyze your debts and create a plan for you to pay them off faster.  Similar to the "Snowball" method, but instead the APR, Minimum Payment amounts, and Balances are used to sort your debts by the quickest to pay off first.  You can compare different debt payoff plans by comparing the total interest paid over time.
 
-You can copy the worksheets from here:
+You can copy the worksheets from here: <a href="https://docs.google.com/spreadsheets/d/1DbFxyxbfzLJgj56bVHbFC8SqkV-QkrKTa84A1mR77WI/copy?usp=sharing" target="_blank">Starting Template</a>
 
-https://docs.google.com/spreadsheets/d/1DbFxyxbfzLJgj56bVHbFC8SqkV-QkrKTa84A1mR77WI/copy?usp=sharing
+Here is a sample budget: <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQF4FVWlT4UNL1J2aL4ZQQGY6oY7M_VhWglMqln4nuIrjiMKwyE23PLI4pj4PMBpCQa3BG-yCDdgNPk/pubhtml" target="_blank">Sample Budget</a>
+
+View Sample 
 
 
 ## 💸 Support This Project
